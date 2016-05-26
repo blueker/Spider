@@ -1,0 +1,11 @@
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\bin\Debug\Spider.Zufang.Sys.exe.config
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\bin\Debug\Spider.Zufang.Sys.exe
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\bin\Debug\Spider.Zufang.Sys.pdb
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\bin\Debug\Spider.Core.Sys.dll
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\bin\Debug\Spider.Core.Sys.pdb
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\obj\Debug\Spider.Zufang.Sys.csprojResolveAssemblyReference.cache
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\obj\Debug\Spider.Zufang.Sys.exe
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\obj\Debug\Spider.Zufang.Sys.pdb
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\bin\Debug\HtmlAgilityPack.dll
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\bin\Debug\HtmlAgilityPack.pdb
+D:\Solutions\Spider.Zufang.Sys\Spider.Zufang.Sys\bin\Debug\HtmlAgilityPack.xml

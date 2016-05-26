@@ -1,0 +1,4 @@
+D:\Solutions\Spider.Zufang.Sys\Spider.Core.Sys\bin\Debug\Spider.Core.Sys.dll
+D:\Solutions\Spider.Zufang.Sys\Spider.Core.Sys\bin\Debug\Spider.Core.Sys.pdb
+D:\Solutions\Spider.Zufang.Sys\Spider.Core.Sys\obj\Debug\Spider.Core.Sys.dll
+D:\Solutions\Spider.Zufang.Sys\Spider.Core.Sys\obj\Debug\Spider.Core.Sys.pdb
